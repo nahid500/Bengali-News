@@ -1,4 +1,4 @@
-# Bengali-News-Summarization-Using-Multilingual-Pre-Trained-Models-for-Improved-Text-Generation
+# Bengali News Summarization Using Multilingual Pre-Trained Models for Improved Text Generation
 
 Results on Our Custom Scrapped Ittefaq News Dataset:
 
